@@ -1,0 +1,18 @@
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+idna==2.10
+imageio-ffmpeg==0.4.3
+ninja==1.10.0.post2
+numpy @ file:///D:/bld/numpy_1612953208180/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+Pillow==5.4.1
+pyspng==0.1.0
+requests==2.25.1
+torch==1.8.0
+torchaudio==0.8.0
+torchvision==0.9.0
+tqdm==4.59.0
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+urllib3==1.26.4
+wincertstore==0.2
